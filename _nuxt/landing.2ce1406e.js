@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as t,a as e,r as n,F as c}from"./entry.e544d35e.js";const i={},o={class:"context"},_=e("div",{class:"area"},[e("ul",{class:"circles"},[e("li"),e("li"),e("li"),e("li"),e("li"),e("li"),e("li"),e("li"),e("li"),e("li")])],-1);function r(l,d){return a(),t(c,null,[e("div",o,[n(l.$slots,"default")]),_],64)}const f=s(i,[["render",r]]);export{f as default};
