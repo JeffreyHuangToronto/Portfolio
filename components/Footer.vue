@@ -1,6 +1,6 @@
 <template>
     <div class="footer">
-        <p>© Copyright 2023 SkinChamps.com | All rights reserved.</p>
+        <p>© Copyright 2023 Jeffrey Huang | All rights reserved.</p>
     </div>
 </template>
 
@@ -11,5 +11,6 @@
     display: flex;
     flex-direction: column;
     margin-top: auto;
+    align-items: center;
 }
 </style>

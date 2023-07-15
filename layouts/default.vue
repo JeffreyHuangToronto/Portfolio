@@ -1,9 +1,9 @@
 <template>
     <div class="layout">
         <Header>
-            <template #logo>JH</template>
+            <template #logo></template>
             <template #nav>
-                <NavItem to="/">Home</NavItem>
+                <NavItem to="/main">Home</NavItem>
                 <NavItem to="/Projects"> Projects </NavItem>
                 <NavItem
                     to="https://github.com/JeffreyHuangToronto"
